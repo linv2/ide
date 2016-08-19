@@ -96,11 +96,6 @@ publish/
 *.Publish.xml
 *.pubxml
 
-# NuGet Packages Directory
-# Enable nuget packages restore when building
-!packages/
-packages/*
-!packages/repositories.config
 
 # Windows Azure Build Output
 csx
